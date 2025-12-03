@@ -57,6 +57,7 @@
 
 ### 실습 6: ACDC Challenge 체험
 [link](https://ai-ctf-challenge-2025.aim-intelligence.com:24000)
+다음 키를 사용하세요: d0b114b878d9487b85737ab9f46f5d5b
 
 ## 요구 사항
 - Python 3.11+ 및 CUDA가 가능한 GPU 환경
