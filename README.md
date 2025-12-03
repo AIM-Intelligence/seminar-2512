@@ -55,6 +55,9 @@
   2. 특정 트리거 코드나 절차 사칭 문구를 설계해 카드 번호·PIN 등 비밀 정보가 언제 읽혀지는지 실험합니다.
   3. Memory 내용을 바꿔가며 어떤 항목이 더 쉽게 새는지 통계를 내고, 반복 호출로 성공 확률/변동성을 측정합니다.
 
+### 실습 6: ACDC Challenge 체험
+[link](https://ai-ctf-challenge-2025.aim-intelligence.com:24000)
+
 ## 요구 사항
 - Python 3.11+ 및 CUDA가 가능한 GPU 환경
 - Hugging Face Transformers, PyTorch, JupyterLab
