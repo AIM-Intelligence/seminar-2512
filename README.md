@@ -1,5 +1,5 @@
 실습 Colab 드라이브 참고: 
-(https://drive.google.com/drive/u/1/folders/16kEdmcVTrWUIu7Os4zdKamfSwCWDCpL_)
+[https://drive.google.com/drive/u/1/folders/16kEdmcVTrWUIu7Os4zdKamfSwCWDCpL_](https://drive.google.com/drive/u/1/folders/16kEdmcVTrWUIu7Os4zdKamfSwCWDCpL_)
 
 2025년 12월 진행하는 **AI Security (Security for AI)** 실습을 위한 레포지토리입니다. 수강생들은 생성형 AI 모델의 위협 모델을 이해하고 직접 공격·방어 실습을 수행하게 됩니다.
 
